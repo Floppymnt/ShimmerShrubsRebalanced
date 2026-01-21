@@ -12,7 +12,7 @@
     }
   ],
   "OutputQuantity": 1,
-  "TimeSeconds": 1,
+  "TimeSeconds": 18,
   "PrimaryOutput": {
     "ItemId": "Ingredient_Bar_Adamantite",
     "Quantity": 1
