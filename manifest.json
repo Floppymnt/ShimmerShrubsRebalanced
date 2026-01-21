@@ -1,0 +1,20 @@
+{
+  "Group": "Floppymnt",
+  "Name": "ShimmerShrubsRebalanced",
+  "Version": "1.0.0",
+  "Description": "This is a rebalance of recipes to make smelting more lucrative in the ealry-game stages. All credit to Darkhax for the original mod.",
+  "Authors": [
+    {
+      "Name": "Floppymnt",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}
